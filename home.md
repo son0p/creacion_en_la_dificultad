@@ -11,6 +11,12 @@
 
 [4.0 Performance](4.0.md)
 
-[1.0 Recursos](1.0.md)
+
+
+
 
 <img src="images/home_adapting_to_the_outside.jpg" height="250" width="400">
+
+[a.1 Código Abierto](a.1.md)
+
+[a.2 Algoritmos](a.2.md)
